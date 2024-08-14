@@ -1,1 +1,1 @@
-Hello! (soory my bed ingles)
+Hello! (sorry my bed ingles)
