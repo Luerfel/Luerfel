@@ -1,4 +1,4 @@
-<p align="center">I am currently pursuing a degree in Software Engineering at PUC Campinas. Throughout my academic journey, I have developed strong skills in languages like C and Python, and have created several projects, including games, robotics, and AI systems. Additionally, I participated in the IoTLab at PUC Campinas, where I honed my skills in IoT, AI, embedded systems, and robotics.</p>
+<p align="left">I am currently pursuing a degree in Software Engineering at PUC Campinas. Throughout my academic journey, I have developed strong skills in languages like C and Python, and have created several projects, including games, robotics, and AI systems. Additionally, I participated in the IoTLab at PUC Campinas, where I honed my skills in IoT, AI, embedded systems, and robotics.</p>
 
 ###
 
