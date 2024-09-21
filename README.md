@@ -1,1 +1,1 @@
-I am currently pursuing a degree in Software Engineering at PUC Campinas, after spending two years studying Computer Engineering. Throughout my academic journey, I have developed strong skills in languages like C and Python, and have created various projects, including games, robotics and AI systems.
+"I am currently pursuing a degree in Software Engineering at PUC Campinas, throughout my academic journey, I have developed strong skills in languages like C and Python, and have created several projects, including games, robotics, and AI systems."
