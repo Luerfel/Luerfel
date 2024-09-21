@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.gifer.com/7IjS.gif"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -26,6 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.gifer.com/7IjS.gif"  />
 </div>
 
 ###
