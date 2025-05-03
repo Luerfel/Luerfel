@@ -1,36 +1,28 @@
-![image](https://github.com/user-attachments/assets/62952581-76f9-4a5c-a4bd-72d1732b51cc)<!-- Parte superior da página -->
+<!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
 ---
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Matheus Mendonça
- 👩🏻‍💻 Apaixonado por IA e em criar e resolver Problemas<br>
+ 👩🏻‍💻 Apaixonado por IA e bom em criar e resolver problemas<br>
  👩‍🎓 Tentando se formar em Engenharia de Software na PUCC<br>
 </div>
+
+
+
 <div align="center">
   <a href="https://github.com/luerfel">
-<img loading="123" src="https://media.tenor.com/U8zSp6YprNkAAAAi/cute-funny.gif"/>
+  <img loading="123" src="https://media.tenor.com/U8zSp6YprNkAAAAi/cute-funny.gif"/>
 </div>
-
-   <!-- Distintivos de Linguagens e Habilidades -->
-<div style="display: inline_block" align="center"><br>
-<img loading="1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img loading="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40"/>
-<img loading="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-<img loading="4" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
-<img loading="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
-<img loading="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40"/>
-<img loading="7" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="40" height="40"/>
-<img loading="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
-<img loading="9" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/>
-<img loading="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/>
-<img loading="11" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-plain.svg" width="40" height="40"/>
-<img loading="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img loading="13" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+<br>
+    
+<div align="center">
+<a href="https://github.com/luerfel">
+<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luerfel&theme=onedark&hide_border=false"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luerfel&theme=onedark&show_icons=true&hide_border=false&layout=compact"/>
 </div>
- <br>
-
+ 
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
