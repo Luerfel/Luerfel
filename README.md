@@ -8,16 +8,11 @@
  👩🏻‍💻 Apaixonado por IA e em criar e resolver Problemas<br>
  👩‍🎓 Tentando se formar em Engenharia de Software na PUCC<br>
 </div>
-
 <div align="center">
   <a href="https://github.com/luerfel">
-  <div style="padding-top:101.003%;position:relative;"><iframe src="https://gifer.com/embed/fyFn" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
+<img loading="123" src="https://media.tenor.com/U8zSp6YprNkAAAAi/cute-funny.gif"/>
 </div>
-    
-<div style="display: inline_block" align="center"><br>
-  <iframe src="https://gifer.com/embed/fyFn" width=480 height=484.816 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
-</div>
-<br>
+
    <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
 <img loading="1" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
