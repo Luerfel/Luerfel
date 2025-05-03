@@ -11,15 +11,12 @@
 
 <div align="center">
   <a href="https://github.com/luerfel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luerfel&theme=onedark&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luerfel&theme=onedark&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luerfel&theme=onedark&show_icons=true&hide_border=false&layout=compact"/>
+  <div style="padding-top:101.003%;position:relative;"><iframe src="https://gifer.com/embed/fyFn" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
 </div>
 
    <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+
 </div>
  <br>
 
@@ -37,9 +34,9 @@
 </div>
 
 <picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/luerfel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/luerfel/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luerfel/larialbu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luerfel/luerfel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luerfel/luerfel/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luerfel/luerfel/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
