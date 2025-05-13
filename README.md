@@ -19,8 +19,7 @@
     
 <div align="center">
 <a href="https://github.com/luerfel">
-<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luerfel&theme=onedark&hide_border=false"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luerfel&theme=onedark&show_icons=true&hide_border=false&layout=compact"/>
+<img loading="lazy" height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=luerfel&theme=onedark&hide_border=false"/>
 </div>
  
 <!-- Contador de Visitantes -->
