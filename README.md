@@ -21,13 +21,7 @@
 <a href="https://github.com/luerfel">
 <img loading="lazy" height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=luerfel&theme=onedark&hide_border=false"/>
 </div>
- 
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{luerfel}/count.svg" /></p> 
-  <br>
-</div>
+
 
 <div align="center"> 
 
