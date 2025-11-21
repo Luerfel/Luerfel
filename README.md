@@ -5,7 +5,7 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Matheus Mendonça
- 👩🏻‍💻 Apaixonado por IA e ciência de dados <br>
+ 👩🏻‍💻 Apaixonado por Criar e Resolver Problemas <br>
  👩‍🎓 Engenharia de Software na PUCC<br>
 </div>
 
