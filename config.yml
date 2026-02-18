@@ -10,7 +10,7 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: luerfel
 
 # Profile information displayed in the galaxy header
 profile:
