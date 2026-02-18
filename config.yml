@@ -13,8 +13,6 @@ profile:
 
 social:
   email: "mluerfel@gmail.com"
-  # If the generator expects only the handle (recommended), use the slug without the full URL:
-  # Example: "matheus-mendonca-65ba63243"
   linkedin: "matheus-mendonca-65ba63243"
   website: ""
 
@@ -43,7 +41,6 @@ galaxy_arms:
       - "Docker"
       - "AWS"
 
-# Remove Featured Systems
 projects: []
 
 theme:
