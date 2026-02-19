@@ -4,28 +4,11 @@
 
 <br/>
 
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<details>
-<summary><strong>More about me</strong></summary>
-
-<br/>
 
 A punk who is good at both solving and creating problems.
 
 **Currently at** Soepia — Campinas, SP
 
-</details>
 
 <br/>
 
