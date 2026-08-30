@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+  <title id="title">Luerfel punk profile header</title>
+  <desc id="desc">Black punk-zine inspired banner with acid green and magenta typography.</desc>
+  <defs>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="1" fill="#ffffff" opacity="0.035"/>
+    </pattern>
+    <filter id="rough" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02 0.8" numOctaves="1" seed="17" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="2" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="360" fill="#070707"/>
+  <rect width="1000" height="360" fill="url(#scan)"/>
+
+  <path d="M0 20 L170 9 L247 18 L382 7 L491 20 L620 8 L745 16 L861 5 L1000 15 L1000 0 L0 0 Z" fill="#b7ff00" opacity="0.95"/>
+  <path d="M0 344 L113 350 L219 340 L331 353 L456 342 L571 354 L702 341 L811 350 L1000 339 L1000 360 L0 360 Z" fill="#ff2da8" opacity="0.95"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+    <text x="55" y="72" fill="#b7ff00" font-size="18" font-weight="700" letter-spacing="4">MATHEUS MENDONÇA // @LUERFEL</text>
+
+    <text x="51" y="190" fill="#ff2da8" opacity="0.82" font-size="112" font-weight="900" letter-spacing="-8">LUERFEL</text>
+    <text x="59" y="184" fill="#b7ff00" opacity="0.75" font-size="112" font-weight="900" letter-spacing="-8">LUERFEL</text>
+    <text x="55" y="187" fill="#f5f2e8" font-size="112" font-weight="900" letter-spacing="-8" filter="url(#rough)">LUERFEL</text>
+
+    <rect x="58" y="211" width="563" height="34" fill="#f5f2e8" transform="rotate(-1 58 211)"/>
+    <text x="73" y="235" fill="#070707" font-size="18" font-weight="900" letter-spacing="1">SOLVE PROBLEMS // CREATE BETTER ONES</text>
+
+    <text x="58" y="293" fill="#9b9b9b" font-size="16" letter-spacing="2">SOFTWARE / AI SYSTEMS / LEARNING TECH / BAD IDEAS TESTED PROPERLY</text>
+    <text x="58" y="321" fill="#ff2da8" font-size="15" font-weight="800" letter-spacing="2">CURRENTLY BREAKING + BUILDING → SOEPIA.COM</text>
+  </g>
+
+  <g fill="none" stroke="#b7ff00" stroke-width="4" opacity="0.9">
+    <path d="M818 76 l105 0 l-16 34 l17 34 l-106 0 l15-34 z"/>
+    <path d="M835 87 l70 46 M905 87 l-70 46"/>
+  </g>
+  <g fill="#ff2da8" opacity="0.95">
+    <rect x="770" y="218" width="166" height="9" transform="rotate(3 770 218)"/>
+    <rect x="789" y="242" width="133" height="7" transform="rotate(-4 789 242)"/>
+  </g>
+</svg>
