@@ -1,0 +1,23 @@
+<svg width="1100" height="330" viewBox="0 0 1100 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1100" height="330" rx="24" fill="#0A0A0A"/>
+<rect x="1" y="1" width="1098" height="328" rx="23" stroke="#272727"/>
+<text x="56" y="55" fill="#666" font-family="monospace" font-size="15">02 / STACK</text>
+
+<g font-family="monospace">
+  <text x="56" y="105" fill="#EDEDED" font-weight="700" font-size="18">FRONTEND</text>
+  <text x="56" y="140" fill="#9A9A9A" font-size="17">TypeScript · React · Vite · Tailwind</text>
+
+  <text x="56" y="203" fill="#EDEDED" font-weight="700" font-size="18">BACKEND / CLOUD</text>
+  <text x="56" y="238" fill="#9A9A9A" font-size="17">Node.js · Firebase · Firestore · APIs</text>
+
+  <text x="570" y="105" fill="#EDEDED" font-weight="700" font-size="18">AI / DATA</text>
+  <text x="570" y="140" fill="#9A9A9A" font-size="17">Gemini · OpenRouter · Python · NLP</text>
+
+  <text x="570" y="203" fill="#EDEDED" font-weight="700" font-size="18">ENGINEERING</text>
+  <text x="570" y="238" fill="#9A9A9A" font-size="17">Vitest · CI · Observability · Testing</text>
+</g>
+
+<rect x="56" y="282" width="988" height="1" fill="#1C1C1C"/>
+<text x="56" y="308" fill="#4E4E4E" font-family="monospace" font-size="13">clean systems &gt; loud stacks</text>
+<text x="1044" y="308" text-anchor="end" fill="#4E4E4E" font-family="monospace" font-size="13">LUERFEL.DEV / 2026</text>
+</svg>

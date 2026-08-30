@@ -1,0 +1,40 @@
+<svg width="1100" height="420" viewBox="0 0 1100 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="60" y1="40" x2="1000" y2="380" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#A3FF12"/>
+    <stop offset="0.5" stop-color="#F6F6F6"/>
+    <stop offset="1" stop-color="#FF2A8A"/>
+  </linearGradient>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="9" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1100" height="420" rx="28" fill="#080808"/>
+<rect x="1" y="1" width="1098" height="418" rx="27" stroke="#2A2A2A"/>
+<path d="M0 78H1100" stroke="#1E1E1E"/>
+<path d="M70 0V420M1030 0V420" stroke="#151515"/>
+<circle cx="92" cy="39" r="5" fill="#A3FF12"/>
+<circle cx="111" cy="39" r="5" fill="#444"/>
+<circle cx="130" cy="39" r="5" fill="#444"/>
+<text x="160" y="45" fill="#7C7C7C" font-family="monospace" font-size="17">LUERFEL / PROFILE</text>
+
+<text x="74" y="184" fill="#F5F5F5" font-family="monospace" font-weight="800" font-size="92" letter-spacing="-5">LUERFEL</text>
+<rect x="73" y="207" width="505" height="6" rx="3" fill="url(#g)" filter="url(#glow)"/>
+
+<text x="75" y="257" fill="#BDBDBD" font-family="monospace" font-size="24">SOFTWARE ENGINEER · DATA · AI</text>
+<text x="75" y="304" fill="#777" font-family="monospace" font-size="18">building useful systems. questioning obvious answers.</text>
+
+<g transform="translate(75,340)">
+  <rect width="198" height="42" rx="21" fill="#111" stroke="#2D2D2D"/>
+  <circle cx="24" cy="21" r="5" fill="#A3FF12"/>
+  <text x="42" y="27" fill="#D9D9D9" font-family="monospace" font-size="15">CAMPINAS, BR</text>
+</g>
+
+<g transform="translate(294,340)">
+  <rect width="226" height="42" rx="21" fill="#111" stroke="#2D2D2D"/>
+  <text x="20" y="27" fill="#D9D9D9" font-family="monospace" font-size="15">CURRENTLY: SOEPIA</text>
+</g>
+
+<text x="1020" y="365" text-anchor="end" fill="#343434" font-family="monospace" font-size="13">EST. IN CURIOSITY</text>
+</svg>

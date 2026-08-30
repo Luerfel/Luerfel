@@ -1,0 +1,19 @@
+<svg width="1100" height="250" viewBox="0 0 1100 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1100" height="250" rx="24" fill="#0A0A0A"/>
+<rect x="1" y="1" width="1098" height="248" rx="23" stroke="#272727"/>
+<text x="56" y="55" fill="#666" font-family="monospace" font-size="15">01 / NOW</text>
+<text x="56" y="105" fill="#F2F2F2" font-family="monospace" font-weight="700" font-size="35">BUILDING SOEPIA</text>
+<text x="56" y="144" fill="#929292" font-family="monospace" font-size="17">AI-native learning infrastructure with measurable pedagogy.</text>
+<text x="56" y="178" fill="#929292" font-family="monospace" font-size="17">Product · Data · AI · Backend · Reliability</text>
+
+<g transform="translate(770,53)">
+  <rect width="270" height="144" rx="18" fill="#0F0F0F" stroke="#222"/>
+  <text x="25" y="35" fill="#666" font-family="monospace" font-size="13">SYSTEM STATUS</text>
+  <circle cx="28" cy="70" r="6" fill="#A3FF12"/>
+  <text x="48" y="76" fill="#EAEAEA" font-family="monospace" font-size="16">shipping</text>
+  <circle cx="28" cy="103" r="6" fill="#FF2A8A"/>
+  <text x="48" y="109" fill="#EAEAEA" font-family="monospace" font-size="16">learning</text>
+  <circle cx="28" cy="136" r="6" fill="#7D7D7D"/>
+  <text x="48" y="142" fill="#EAEAEA" font-family="monospace" font-size="16">refactoring forever</text>
+</g>
+</svg>
