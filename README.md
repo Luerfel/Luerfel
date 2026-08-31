@@ -122,24 +122,6 @@ Tests, edge cases and finding the failure before production does.
 
 ## `// SIGNAL`
 
-```text
-$ whoami
-
-Luerfel
-software / AI / product / learning systems
-
-$ talk-about
-
-> AI architecture
-> weird production failures
-> education technology
-> product engineering
-> systems that looked simpler on the whiteboard
-
-$ status
-
-open to interesting conversations
-```
 
 <div align="center">
 
